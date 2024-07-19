@@ -5,7 +5,7 @@
 # Hi, I'm Abinesh 👋
 
 <!-- Introduction -->
-I’m a Penetration Tester and Bug Hunter focused on improving web applications and network security. 
+Penetration Tester and Bug Hunter focused on improving web applications and network security. 
 
 <!-- Skills and Expertise -->
 ## 🛠 Skills & Expertise

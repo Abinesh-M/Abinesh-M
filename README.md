@@ -17,7 +17,7 @@ Penetration Tester and Bug Hunter focused on improving web applications and netw
 <!-- Achievements -->
 ## 🏆 Achievements
 
-- **Hall of Fame Mentions**: Zoho, Apple, Hostinger, Oppo, etc.
+- **Hall of Fame & Rewards**: Zoho, Apple, Hostinger, Oppo, etc.
 - **Active in Bug Bounty Programs**: Engaged in finding and reporting vulnerabilities.
 
 <!-- Contact and Social Links -->

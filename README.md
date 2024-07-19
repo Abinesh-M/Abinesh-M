@@ -29,9 +29,7 @@ I’m a Penetration Tester and Bug Hunter focused on improving web applications 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Abinesh_M-blue)](https://www.linkedin.com/in/abinesh-m20)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Abinesh--M-black)](https://github.com/Abinesh-M)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-@AbineshM-blue)](https://twitter.com/AbineshM)
 [![Medium Badge](https://img.shields.io/badge/Medium-Abinesh_M-black)](https://abineshm.medium.com/)
-[![eJPT Badge](https://img.shields.io/badge/Certification-eJPT-blue)](https://www.elearnsecurity.com/)
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats

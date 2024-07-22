@@ -1,5 +1,6 @@
-<!-- GIF Image -->
-![Welcome GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlrc21hanV6c2ExNDRnY2k2bXZzNmdyamNzcThldHJra3Rib3J6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlrc21hanV6c2ExNDRnY2k2bXZzNmdyamNzcThldHJra3Rib3J6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Welcome GIF">
+</p>
 
 <!-- Title -->
 # Hi, I'm Abinesh 👋

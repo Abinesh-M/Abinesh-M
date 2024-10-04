@@ -25,7 +25,6 @@ Penetration Tester and Bug Hunter focused on improving web applications and netw
 ## 📫 Contact & Social Links
 
 - **LinkedIn**: [Abinesh M](https://www.linkedin.com/in/abinesh-m20)
-- **GitHub**: [Abinesh-M](https://github.com/Abinesh-M)
 - **Blog**: [Medium](https://abineshm.medium.com/)
 
 <!-- GitHub Stats -->
